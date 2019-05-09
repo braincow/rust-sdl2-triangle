@@ -1,0 +1,9 @@
+[package]
+name = "sdl2-triangle"
+version = "0.1.0"
+authors = ["Antti Peltonen <antti.peltonen@solita.fi>"]
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.32"
+pdqsort = "1.0"
